@@ -1,4 +1,4 @@
-![saxionroosters](http://saxionroosters.nl/static/img/saxionroosters-logo-text-2.png)
+![saxionroosters](http://saxionroosters.nl/static/img/saxionroosters-logo-text-v4.png)
 -----
 
 [![GitHub issues](https://img.shields.io/github/issues/saxionroosters/docs.svg)](https://github.com/saxionroosters/docs/issues?q=is%3Aopen+is%3Aissue)
